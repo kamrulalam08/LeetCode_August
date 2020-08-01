@@ -1,6 +1,8 @@
 import java.util.*;
 import java.util.regex.Pattern;
 
+aaaaaaaaaa
+
 /*
  * Given a word, you need to judge whether the usage of capitals in it is right or not.
 
